@@ -30,32 +30,19 @@ Passionate about Problem Solving, Web Development and Continuous Learning 🚀
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/dhruv-gupta-a66047282/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://leetcode.com/u/dhruvguptaji/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.codechef.com/users/dhruvgupta123" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef" height="50"/>
+<img src="https://cdn.simpleicons.org/codechef" height="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.instagram.com/dhruvgupta772/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
-
 </p>
-
----
 
 ## 🛠 Tech Stack
 
