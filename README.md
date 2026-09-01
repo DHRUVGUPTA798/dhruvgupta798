@@ -20,31 +20,37 @@ Passionate about Problem Solving, Web Development and Continuous Learning 🚀
 
 - 🎓 B.Tech CSE Student at **GLA University, Mathura**
 - ☕ Strong interest in **Java Programming & Data Structures**
-- 🌱 Currently learning **JavaScript, React, Node.js and Full Stack Development**
+- 🌱 Currently learning **JavaScript, React and Full Stack Development**
 - 💡 Interested in **Web Development, Problem Solving and Software Engineering**
-- 🚀 Consistently solving DSA problems and building projects
-- 📫 Reach me at: **guptadhruv50841@gmail.com**
+- 🚀 Building projects and improving problem-solving skills
+- 📫 Reach me at **guptadhruv50841@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/dhruv-gupta-a66047282/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://www.instagram.com/dhruvgupta772/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.codechef.com/users/dhruvgupta123" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/>
-</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/dhruvguptaji/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/dhruvgupta123" target="_blank">
+<img src="https://cdn.simpleicons.org/codechef" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/dhruvgupta772/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
 </p>
@@ -53,27 +59,15 @@ Passionate about Problem Solving, Web Development and Continuous Learning 🚀
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,git,github,vscode,mysql" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
 </p>
 
@@ -97,7 +91,7 @@ Passionate about Problem Solving, Web Development and Continuous Learning 🚀
 
 ## 🎯 Current Goals
 
-- ✅ Solve DSA problems consistently
+- ✅ Solve DSA Problems Consistently
 - ✅ Strengthen Java & Problem Solving Skills
 - ✅ Build Full Stack Projects
 - ✅ Learn Backend Development
@@ -118,5 +112,5 @@ Passionate about Problem Solving, Web Development and Continuous Learning 🚀
 ---
 
 <p align="center">
-⭐ Consistency beats intensity. Keep building, keep learning.
+<i>"Consistency beats intensity. Keep building, keep learning."</i>
 </p>
