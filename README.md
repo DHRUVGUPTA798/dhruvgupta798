@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
 
-<h3 align="center">B.Tech CSE Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">B.Tech CSE Student | Java Developer | DSA Enthusiast</h3>
 
 <p align="center">
-Passionate about Web Development, Java and Problem Solving.
+Passionate about Problem Solving, Web Development and Continuous Learning 🚀
 </p>
 
 <p align="center">
@@ -18,11 +18,12 @@ Passionate about Web Development, Java and Problem Solving.
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE Student at **GLA University, Mathura**
-* 🌱 Currently learning **JavaScript, React and Full Stack Development**
-* 💡 Interested in **Web Development, Java and DSA**
-* 🚀 Building projects and improving problem-solving skills
-* 📫 Reach me at: **[guptadhruv50841@gmail.com](mailto:guptadhruv50841@gmail.com)**
+- 🎓 B.Tech CSE Student at **GLA University, Mathura**
+- ☕ Strong interest in **Java Programming & Data Structures**
+- 🌱 Currently learning **JavaScript, React, Node.js and Full Stack Development**
+- 💡 Interested in **Web Development, Problem Solving and Software Engineering**
+- 🚀 Consistently solving DSA problems and building projects
+- 📫 Reach me at: **guptadhruv50841@gmail.com**
 
 ---
 
@@ -50,68 +51,72 @@ Passionate about Web Development, Java and Problem Solving.
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Tech Stack
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvgupta798&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgupta798&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvgupta798" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DHRUVGUPTA798&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📚 LeetCode Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgupta798&theme=github-compact" />
+<img src="https://leetcard.jacoblin.cool/dhruvguptaji?theme=light&font=Karma&ext=contest" />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-* Solve DSA problems consistently
-* Build Full Stack Projects
-* Learn React and Backend Development
-* Contribute to Open Source
-* Prepare for Software Engineering Internships
+- ✅ Solve DSA problems consistently
+- ✅ Strengthen Java & Problem Solving Skills
+- ✅ Build Full Stack Projects
+- ✅ Learn Backend Development
+- ✅ Contribute to Open Source
+- ✅ Prepare for Software Engineering Internships
 
 ---
 
-## 🚀 Featured Areas
+## 🚀 Areas of Interest
 
-💻 Web Development
+- 💻 Web Development
+- ☕ Java Development
+- 🧠 Data Structures & Algorithms
+- ⚛️ Frontend Development
+- 🔧 Git & GitHub
+- 🌱 Continuous Learning
 
-☕ Java Programming
+---
 
-🧠 Data Structures & Algorithms
-
-🔧 Git & GitHub
-
-🌱 Continuous Learning
+<p align="center">
+⭐ Consistency beats intensity. Keep building, keep learning.
+</p>
